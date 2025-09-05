@@ -19,7 +19,7 @@ AI is building the new foundation of our world.  IT is no longer a specialized b
 
 From voice assistants and recommendation engines to autonomous vehicles and enterprise automation, AI is now deeply embedded in every major digital infrastructure. Whether in healthcare, finance, education, or national security — AI systems are making decisions, shaping experiences, and even setting policies.
 
->"Amateurs attack machines; professionals target people."  — General Keith Alexander, former NSA Director <br>
+>“AI will enhance the ways humans experience the world.”     — Jeff Bezos<br>
 
 <h3>🌍 Societal Impacts: Progress and Consequences</h3> 
 
@@ -43,8 +43,9 @@ The IT landscape is rapidly evolving. Cloud computing, automation, cybersecurity
 
 Whether you're aiming to be a software engineer, data scientist, DevOps professional, or IT strategist —
 
-Understanding AI is no longer a niche skill. It is a core competency.
+Understanding AI is no longer a niche skill. It is a core competency.<br> 
 
+>“Artificial intelligence is the new electricity.”   — Andrew Ng
 <h2>📂 Projects</h2>
 
 - <b>Building Robust Networking Home Lab</b>
