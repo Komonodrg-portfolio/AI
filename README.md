@@ -1,13 +1,5 @@
+### [Home](https://github.com/Komonodrg-portfolio) | [Cybersecurity](https://github.com/Komonodrg-portfolio/Cybersecurity) | [Networking](https://github.com/Komonodrg-portfolio/Networking) | [Media Creation](https://github.com/Komonodrg-portfolio/MediaCreation) | [Mission](https://github.com/Komonodrg-portfolio/Mission/)
 
-
-<h1>
-  <sub>
-    <a href="https://github.com/Komonodrg-portfolio">🏠️ Home</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/Cybersecurity">Cybersecurity</a> | 
-    <a href="https://github.com/Komonodrg-portfolio/Networking">Networking</a> |  
-    <a href="https://github.com/Komonodrg-portfolio/MediaCreation">Media Creation</a>
-  </sub>
-</h1>
 
 # 💡 Data Science / AI Engineering
 
@@ -51,7 +43,7 @@ Understanding AI is no longer a niche skill. It is a core competency.<br>
 - <b>Building Robust Networking Home Lab</b>
   - [Networking Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   
-<h2>🪂 <em>One Man's Thoughts...</em></h2>
+<h2>🪂 <em>"One Man's Thoughts..."</em></h2>
 ... 
 
 <br>Colleagues, Onward.<br> 
