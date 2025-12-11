@@ -44,7 +44,9 @@ Understanding AI is no longer a niche skill. It is a core competency.<br>
   
   
 <h2>🪂 <em>"One Man's Thoughts..."</em></h2>
-... 
+While the advent and employment of AI in data science is exciting, it is best to have a solid understanding of the current IT landscape to truly harness the power of AI most efficiently.  Possessiong a solid foundational knowledge of how our IT systems work will best allow for the tech of tomorrow to be digestable and best used today.  As I document my AI / data science journey, I'll start with trying to nail down the conceptual knowledge of how systems work currently, in order to best employ AI in the future.
+
+Harping back to the mission, as I go through my learning journey, my hopes is to empower those eager to learn to start with a very digestable plate, and slowly build from the buffet AI presents for possibilities... I must have been hungry when writing this, I digress...
 
 <br>Colleagues, Onward.<br> 
 
